@@ -1,38 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito Sans", sans-serif;
+  text-decoration: none;
+  overflow: hidden;
+}
+body {
+  max-width: 100vw;
+  height: 100vh;
+  background: url("../src/assets/pexels-adonyi-gábor-1414651.jpg");
+  background-repeate: no-repeate;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.62);
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+.App .bmi {
+  box-shadow: 0px 0px 12px #ccc;
+  background-color: rgb(192, 209, 103, 0.5);
+  border-radius: 4px;
+  padding: 1rem;
+  text-align: center;
+  width: 400px;
+}
+.App h2 {
+  text-align: center;
+  font-family: "Merienda", cursive;
+}
+.App h3 {
+  text-align: center;
+}
+.App form {
+  padding: 5px 0px;
+}
+.App button {
+  width: 60%;
+  height: 40px;
+  background-color: #ea8504;
+  color: #ffff;
+  cursor: pointer;
+  margin-top: 0.3rem;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+.App .btns {
+  margin-top: 1rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.App .reset {
+  background-color: #40700d;
+}
+.App .reset:hover {
+  font-size: bold;
+}
+.App .result {
+  text-align: center;
+}
+.App .img-result img {
+  height: 150px;
+}
+input {
+  width: 100%;
+  padding: 8px 4px;
+  display: flex;
+  justify-content: center;
+  border: none;
+  font-size: 1.2rem;
+  padding: 1rem;
+  margin-top: 0.8rem;
+  border-radius: 4px;
+  background-color: rgb(116, 107, 92, 0.7);
+}
+@media (max-width: 400px) {
+  .App .bmi {
+    width: 300px;
   }
 }
