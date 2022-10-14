@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BMI/static/css/main.7c4e1ada.css",
+    "main.js": "/BMI/static/js/main.c6f39a0f.js",
+    "static/media/pexels-adonyi-gábor-1414651.jpg": "/BMI/static/media/pexels-adonyi-gábor-1414651.590833d3926e1b776281.jpg",
+    "static/media/default_img.png": "/BMI/static/media/default_img.f3b64bd4208f3c761f18.png",
+    "static/media/overweight_img.png": "/BMI/static/media/overweight_img.d289cb46e9633c985346.png",
+    "static/media/healthy_img.png": "/BMI/static/media/healthy_img.9343f93bce37d792e548.png",
+    "static/media/underweight_img.png": "/BMI/static/media/underweight_img.59ea1528911569173fa9.png",
+    "index.html": "/BMI/index.html",
+    "main.7c4e1ada.css.map": "/BMI/static/css/main.7c4e1ada.css.map",
+    "main.c6f39a0f.js.map": "/BMI/static/js/main.c6f39a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4e1ada.css",
+    "static/js/main.c6f39a0f.js"
+  ]
+}
