@@ -1,6 +1,6 @@
 
 <h1 align = "center">Body Mass Index Calculator</h1>
-<p><b>Description: </b>BMI calculator where user can write their height and weight and get body mass index, the project was written on react and TypeScript.</p> 
+<p><b>Description: </b>BMI calculator where user can write their height and weight and get body mass index, the project was written on React and TypeScript.</p> 
 <a href = "https://vladyslavos.github.io/BMI/">LIVE</a>
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/67589338/195985496-9dc4d5d8-68cf-4582-89a7-c305a77aa396.gif)
