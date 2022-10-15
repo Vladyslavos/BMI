@@ -3,7 +3,8 @@
 <p><b>Description: </b>BMI calculator where user can write their height and weight and get body mass index, the project was written on react and TypeScript.</p> 
 <a href = "https://vladyslavos.github.io/BMI/">LIVE</a>
 
-   https://user-images.githubusercontent.com/67589338/195985322-9bff8bb4-18d1-4511-98e2-ef317bff81d5.mp4
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67589338/195985440-ffd19c47-84d4-42ac-bf99-69d122a3ee4f.gif)
+
 
 
 <b>Technologies that I used:</b>
